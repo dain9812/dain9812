@@ -20,5 +20,5 @@
   <br/><br/><br/>
   
   🔥 Most Used Language<br/><br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dain9812)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hdain&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
