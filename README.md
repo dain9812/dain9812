@@ -37,6 +37,10 @@ Hi, I'm Dain!
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
       alt="javascript"/> 
   </a>
+  <a href="https://dart-ko.dev/" target="_blank"> 
+    <img src="https://img.shields.io/badge/dart-1c2834.svg?style=for-the-badge&logo=dart&logoColor=white"
+      alt="dart"/>
+  </a>	
   <a href="https://sass-lang.com/" target="_blank">
     <img src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=Sass&logoColor=white"
       alt="scss"/>
@@ -59,6 +63,10 @@ Hi, I'm Dain!
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="react" /> 
   </a>
+  <a href="https://docs.flutter.dev/" target="_blank"> 
+    <img src="https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white"
+      alt="flutter" /> 
+  </a>
   <a href="https://angular.io/" target="_blank"> 
     <img src="https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"
       alt="angular" /> 
@@ -66,20 +74,6 @@ Hi, I'm Dain!
   <a href="https://tailwindcss.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/TailwindCss-06B6D4?style=for-the-badge&logo=TailwindCss&logoColor=white"
       alt="tailwindcss" />
-  </a>
-</p>
-<br>
-
-### Hosting
-
-<p>
-  <a href="https://github.com/hdain">
-    <img src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?style=for-the-badge&logo=firebase&logoColor=white"
-      alt="firebase">
-  </a>
-  <a href="https://www.netlify.com/">
-    <img src ="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white"
-      alt="netlify">
   </a>
 </p>
 <br>
@@ -110,6 +104,7 @@ Hi, I'm Dain!
 </p>
 </br>
 
+<!--
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <br/>
@@ -119,3 +114,4 @@ Hi, I'm Dain!
     <img src="https://github-readme-stats.vercel.app/api?username=hdain&show_icons=true&theme=tokyonight" alt="hdain">
 	</a>
 </p>
+-->
